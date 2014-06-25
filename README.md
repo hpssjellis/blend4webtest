@@ -23,7 +23,7 @@ git commit -m "initial commit"
 
 git push origin master
 
-will ask for github suername then password
+will ask for github username then password
 
 
 
@@ -40,4 +40,4 @@ git remote -v
 
 git push heroku master
 
-will ask for github username then password
+will ask for heroku username then password
