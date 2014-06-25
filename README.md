@@ -11,13 +11,11 @@ $ git init
 
 $ git remote add origin https://github.com/hpssjellis/nitrous-git-command-test.git
 
-update public key
-
 git remote -v
 
-Verify new remote
+git config user.name "myusername" 
 
-git config user.name "myusername" git config user.email "myemail@gmail
+git config user.email "myemail@gmail
 
 git add . 
 
